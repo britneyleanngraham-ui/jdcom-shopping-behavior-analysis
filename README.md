@@ -144,7 +144,7 @@ The Executive Overview provides a high-level view of interaction activity and Pu
 
 ## Dashboard — Product & Seller Analysis
 
-![Product and Seller Analysis Dashboard](Product_and_Seller_Analysis_dashboard.png)
+![Product and Seller Analysis Dashboard](images/Product_And_Seller_dashboard.png)
 
 The Product & Seller Analysis dashboard supports deeper comparison across products, brands, categories, and shops to identify areas that may warrant further investigation.
 
